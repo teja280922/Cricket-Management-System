@@ -1,1 +1,1 @@
-# Cricket-Management-System
+The Cricket Match Management System is a Python-based application that allows users to efficiently manage cricket matches with CRUD (Create, Read, Update, Delete) operations. The system ensures that only one match can be scheduled per day, preventing duplicate entries and providing warnings if a match already exists on a given date. Users can view all scheduled matches, add new matches, update match details, and delete matches as needed. The program follows a menu-driven approach, making it user-friendly and easy to navigate.
